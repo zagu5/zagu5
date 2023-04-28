@@ -5,7 +5,7 @@
 <br />
 <div align="center">
  
-💻 I’m a **Frontend Developer** 
+💻 I’m a **Frontend Developer and mobile developer** 
 
 <!-- All of my projects are available at [https://lethamburn.vercel.app](https://lethamburn.vercel.app) -->
 
